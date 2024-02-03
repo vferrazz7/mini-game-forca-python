@@ -1,6 +1,10 @@
 import random
 
-palavras = ['perfume', 'jacare', 'pato', 'lasanha', 'vinicius', 'madrid']
+palavras = ['perfume', 'jacare', 'pato', 'lasanha', 'vinicius', 'madrid', 'familia', 'astronomia', 'oceanografia', 'viagem', 'literatura', 'culinaria', 'aventura', 
+            'iphone', 'saude', 'tecnologia', 'sabonete', 'musica', 'esportes', 'cultura', 
+            'amizade', 'moda', 'biologia', 'moda', 'filosofia', 'natureza', 'leao', 'elefante', 'girafa', 'tigre', 'gato', 'cachorro', 'papagaio', 'peixe', 'baleia',
+            'tartaruga', 'abelha', 'panda', 'pinguim', 'golfinho', 'aguia', 'coruja', 'macaco', 
+            'coelho', 'crocodilo', 'borboleta']
 
 secreto = random.choice(palavras)
 digitadas = []
